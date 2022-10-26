@@ -1,5 +1,5 @@
 # It Is Not Easy To Detect Paraphrases
 
-The *SemAntoNeg* challenge set is provided in the testsuite directory.
+The *SemAntoNeg version 1.0* challenge set is provided in the testsuite directory.
 
-*More information coming soon...*
+In the challenge set, a model is supposed to choose the correct sentence out of three options.
