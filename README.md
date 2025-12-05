@@ -1,5 +1,7 @@
 # It Is Not Easy To Detect Paraphrases
 
+**The dataset is available with more details at: [Helsinki-NLP/SemAntoNeg](https://github.com/Helsinki-NLP/SemAntoNeg)**
+
 The *SemAntoNeg version 1.0* challenge set is provided in the testsuite directory.
 
 The challenge set probes language models' representations of negation and opposing concepts in terms of antonymy; 
